@@ -1,4 +1,5 @@
 import Hero from "./components/Hero";
+import Footer from "./components/Footer";
 import Pricing from "./components/Pricing";
 import Header from "./components/Header";
 import Services from "./components/Services";
@@ -18,6 +19,7 @@ const App = () => {
         <Services />
         <Pricing />
         <Roadmap />
+        <Footer />
       </div>
 
       <ButtonGradient />
