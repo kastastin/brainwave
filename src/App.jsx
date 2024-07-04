@@ -1,4 +1,5 @@
 import Hero from "./components/Hero";
+import Pricing from "./components/Pricing";
 import Header from "./components/Header";
 import Services from "./components/Services";
 import Benefits from "./components/Benefits";
@@ -14,6 +15,7 @@ const App = () => {
         <Benefits />
         <Collaboration />
         <Services />
+        <Pricing />
       </div>
 
       <ButtonGradient />
